@@ -1,11 +1,11 @@
 <?php
-/*
- Plugin Name: REST Filter Response Fields
- Plugin URI: http://wordpress.org/extend/plugins/rest-filter-response-fields/
- Description: Specify fields for the response JSON. See https://core.trac.wordpress.org/ticket/38131.
- Author: adamsilverstein, kadamwhite, rmccue.
- Version: 1.0.0
- Author URI: http://wordpress.org/
+/**
+ * Plugin Name: REST Filter Response Fields
+ * Plugin URI: http://wordpress.org/extend/plugins/rest-filter-response-fields/
+ * Description: Specify fields for the response JSON. See https://core.trac.wordpress.org/ticket/38131.
+ * Author: adamsilverstein, kadamwhite, rmccue.
+ * Version: 1.0.0
+ * Author URI: http://wordpress.org/
  */
 
 
